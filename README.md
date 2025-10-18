@@ -9,7 +9,8 @@ An open-source, clean & customizable **RAG (Retrieval-Augmented Generation) chat
 
 ## Preview / Demo
 
-<img width="1918" height="1078" alt="WhatsApp AI Assitant" src="https://github.com/user-attachments/assets/b1cba9db-aebf-4801-b410-2e0ede16e7f9" />
+<img width="1912" height="965" alt="RAG AI WorkFlow With whatsApp chat" src="https://github.com/user-attachments/assets/64d2b521-803a-4e52-9f1b-bc4327e910de" />
+
 
 
 ---
